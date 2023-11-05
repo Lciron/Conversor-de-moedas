@@ -1,8 +1,8 @@
 const button = document.getElementById("convert-button");
 const select = document.getElementById("currency-select");
 
-const dolar = 4.7;
-const euro = 5.2;
+const dolar = 4.90;
+const euro = 5.26;
 
 const convertValues = () => {
   const inputReais = document.getElementById("input-real").value;
